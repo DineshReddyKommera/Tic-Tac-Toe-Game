@@ -10,3 +10,5 @@ It consists of below methods:
 5. check_columns, check_rows, check_diagonals and check_tie: These methods are used for finding whether the game has ended or not.
 
 Apart form this, ENUM class is used for determining status.
+
+![alt text](https://github.com/DineshReddyKommera/Tic-Tac-Toe-Game/blob/master/carbon.png?raw=true)
