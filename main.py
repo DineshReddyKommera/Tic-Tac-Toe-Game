@@ -187,6 +187,6 @@ class TicTacToe:
 
 
 # Object Instance
-t1 = TicTacToe()
+t_game = TicTacToe()
 # Start Game
-t1.play_game()
+t_game.play_game()
